@@ -1,0 +1,50 @@
+{
+	"storyName": "him :)",
+	"difficulties": "normal, erect",
+	"hideFreeplay": false,
+	"weekBackground": "him",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"empty",
+		"empty",
+		"empty"
+	],
+	"songs": [
+		[
+			"Him",
+			"him",
+			[
+				255,
+				80,
+				80
+			]
+		],
+		[
+			"What",
+			"what",
+			[
+				255,
+				80,
+				180
+			]
+		],
+		[
+			"Angered-Him",
+			"nightmarehim",
+			[
+				146,
+				0,
+				0
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "him",
+	"hiddenUntilUnlocked": false
+}

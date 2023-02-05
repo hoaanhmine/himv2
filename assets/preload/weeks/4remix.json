@@ -1,0 +1,59 @@
+{
+	"storyName": "remixes",
+	"difficulties": "normal",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": true,
+	"songs": [
+		[
+			"Reactor",
+			"impostor3",
+			[
+				0,
+				215,
+				0
+			]
+		],
+		[
+			"Guns",
+			"tankman",
+			[
+				255,
+				215,
+				95
+			]
+		],
+		[
+			"Chills",
+			"spoopy",
+			[
+				80,
+				140,
+				255
+			]
+		],
+		[
+			"Confronting-Yourself",
+			"dad",
+			[
+				155,
+				0,
+				0
+			]
+		]
+	],
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "boil dogs"
+}

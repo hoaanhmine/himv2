@@ -1,0 +1,32 @@
+{
+	"storyName": "remixes",
+	"difficulties": "dont click on this lol",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"remix",
+			"none",
+			[
+				255,
+				60,
+				60
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"weekName": "boil dogs",
+	"hiddenUntilUnlocked": false
+}

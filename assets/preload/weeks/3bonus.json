@@ -1,0 +1,59 @@
+{
+	"storyName": "the peeper",
+	"difficulties": "normal",
+	"hideFreeplay": false,
+	"weekBackground": "him",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"him",
+		"him",
+		"him"
+	],
+	"songs": [
+		[
+			"Egg",
+			"egg",
+			[
+				86,
+				0,
+				173
+			]
+		],
+		[
+			"Industrialized",
+			"dad",
+			[
+				100,
+				100,
+				100
+			]
+		],
+		[
+			"Silly-Squabble",
+			"dad",
+			[
+				255,
+				140,
+				255
+			]
+		],
+		[
+			"Rematch",
+			"dad",
+			[
+				0,
+				0,
+				0
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"weekName": "Custom Week",
+	"hiddenUntilUnlocked": false
+}

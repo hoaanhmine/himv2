@@ -1,0 +1,32 @@
+{
+	"storyName": "???",
+	"difficulties": "infernal",
+	"hideFreeplay": true,
+	"weekBackground": "rematch",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "2them",
+	"startUnlocked": false,
+	"weekCharacters": [
+		"empty",
+		"empty",
+		"empty"
+	],
+	"songs": [
+		[
+			"finale",
+			"dad",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "???",
+	"hiddenUntilUnlocked": false
+}

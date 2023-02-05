@@ -1,0 +1,32 @@
+{
+	"storyName": "him :)",
+	"difficulties": "dont click on this lol",
+	"hideFreeplay": false,
+	"weekBackground": "him",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"him",
+		"him",
+		"him"
+	],
+	"songs": [
+		[
+			"bonus",
+			"none",
+			[
+				255,
+				60,
+				60
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"weekName": "him",
+	"hiddenUntilUnlocked": false
+}

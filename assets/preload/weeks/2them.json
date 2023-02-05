@@ -1,0 +1,50 @@
+{
+	"storyName": "the meetup",
+	"difficulties": "normal",
+	"hideFreeplay": false,
+	"weekBackground": "them",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "1him",
+	"startUnlocked": false,
+	"weekCharacters": [
+		"empty",
+		"empty",
+		"empty"
+	],
+	"songs": [
+		[
+			"It",
+			"it",
+			[
+				215,
+				215,
+				80
+			]
+		],
+		[
+			"Her",
+			"her",
+			[
+				255,
+				180,
+				180
+			]
+		],
+		[
+			"Them",
+			"them",
+			[
+				126,
+				13,
+				153
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Them",
+	"hiddenUntilUnlocked": false
+}
